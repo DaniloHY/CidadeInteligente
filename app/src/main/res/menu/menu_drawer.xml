@@ -4,15 +4,15 @@
         <item android:title="Opções">
             <menu>
                 <item
-                    android:id="@+id/mGallery"
+                    android:id="@+id/mAbout"
                     android:icon="@drawable/baseline_info"
                     android:title="Sobre Nós" />
                 <item
-                    android:id="@+id/mSlideShow"
+                    android:id="@+id/mSettings"
                     android:icon="@drawable/baseline_settings"
                     android:title="Configurações" />
                 <item
-                    android:id="@+id/mSettings"
+                    android:id="@+id/mLogout"
                     android:icon="@drawable/baseline_logout"
                     android:title="Sair" />
             </menu>
